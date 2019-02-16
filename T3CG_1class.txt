@@ -1,0 +1,18 @@
+﻿T3CG
+
+package manager...
+
+homebrew and chocolatey make it easier to download, manage, and integrate software...
+
+node.js lets you run javascript on your actual hard machine... your server can read js but wo node your machine cannot?
+
+git and github
+git is sthe softwared that we use to update
+
+git is the software that we use to upload to github
+git hub 
+
+
+some commands for running a website absolutely require working on the terminal
+
+
